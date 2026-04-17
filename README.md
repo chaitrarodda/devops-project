@@ -4,7 +4,7 @@
 This is a simple DevOps project where a static website is containerized using Docker and deployed locally.
 
 
-## echnologies Used
+## Technologies Used
 - Docker
 - Git
 - GitHub
@@ -16,7 +16,7 @@ This is a simple DevOps project where a static website is containerized using Do
 - Dockerfile → Container configuration
 
 
-## teps to Run the Project
+## Steps to Run the Project
 
 1. Build Docker image
    docker build -t myproject .
