@@ -3,7 +3,7 @@
 ##  Live Demo
 🔗 http://65.0.30.184
 
->  Note: The application runs on AWS EC2. If the instance is stopped, the site may not be accessible.
+ Note: The application runs on AWS EC2. If the instance is stopped, the site may not be accessible.
 
 
 ##  Project Overview
